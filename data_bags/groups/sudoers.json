@@ -1,0 +1,8 @@
+{
+
+"id":"sudoers",
+"comment":"sudoers group",
+"gid":3005,
+"member":["galaxy","ubuntu"]
+}
+
